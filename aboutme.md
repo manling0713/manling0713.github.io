@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Hi, I'm Queenie!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Data Analyst with 3 years of experience leveraging SQL, Python, and R to transform complex datasets into actionable insights. I hold degrees in Statistics and Business Analytics.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My background includes product development and B2B client-facing roles, where I communicate effectively with both technical and non-technical stakeholders. I use data-driven insights to drive business growth, optimize product performance, and support strategic decision-making.
 
-What else do you need?
 
-### My story
+### Working Experience
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- to be added
+- to be added...
