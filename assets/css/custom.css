@@ -18,3 +18,10 @@
         padding: 0 10px;
     }
 }
+
+.project-item img {
+    max-width: 400px;   
+    height: auto;
+    display: block;
+    margin-bottom: 10px;
+}
