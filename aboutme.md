@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Hi, I'm Queenie!
+full-width: true
 ---
 
 Data Analyst with 3 years of experience leveraging SQL, Python, and R to transform complex datasets into actionable insights. I hold degrees in Statistics and Business Analytics.
