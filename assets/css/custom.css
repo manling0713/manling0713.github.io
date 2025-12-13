@@ -1,6 +1,20 @@
-/* Limit max width even in full-width pages */
-.page-content {
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
+.container-md, .container-fluid {
+    max-width: 1200px;  
+    margin: 0 auto;      
+    padding: 0 20px;     
+    width: 100%;
+    box-sizing: border-box;
+}
+
+@media (max-width: 992px) {
+    .container-md, .container-fluid {
+        max-width: 90%;
+    }
+}
+
+@media (max-width: 576px) {
+    .container-md, .container-fluid {
+        max-width: 95%;
+        padding: 0 10px;
+    }
 }
