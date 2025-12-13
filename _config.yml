@@ -21,6 +21,7 @@ author: Queenie Chao
 
 navbar-links:
   About Me: "aboutme"
+  Projects: "projects"
   Resources:
     - Linkedin: "https://www.linkedin.com/in/queenie-chao/"
     - Github: "https://github.com/manling0713"
