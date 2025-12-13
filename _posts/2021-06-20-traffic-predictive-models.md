@@ -3,6 +3,7 @@ layout: post
 title: "Predictive Modeling and Factor Analysis for Freeway Traffic Accidents"
 tags: [R, SAS, Minitab]
 categories: [projects]
+image: "/assets/img/highway.avif"
 ---
 This is a research project for the Seminar on Business Statistics at National Taipei University. Some content may be in Chinese and translated. Feel free to contact me for more details!
 
