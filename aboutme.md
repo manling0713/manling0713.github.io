@@ -11,33 +11,35 @@ My background includes product development and B2B client-facing roles, where I 
 
 
 ## 💼 Work Experience
-
-<div class="experience-card">
-  <div class="experience-left">
-    <img src="{{ '/assets/img/fetch.jpeg' | relative_url }}" alt="Fetch Logo">
-  </div>
-  <div class="experience-right">
-    <h3>Product Data Analyst</h3>
-    <p><strong>Fetch</strong>, Remote | November 2024 - August 2025</p>
-    <ul>
-      <li>Maintained and troubleshot data pipelines, and managed Tableau and Grafana dashboards for AdTech tools, using SQL and DBT to investigate and identify the root cause of a $100M+ sales loss due to workflow issues</li>
-      <li>Led development of machine learning powered tools using Python and Streamlit to analyze offer performance, drive data-driven decisions, and enhance team efficiency through collaboration with sales and non-technical stakeholders</li>
-      <li>Collaborated with Analytics Engineers to improve pipeline architecture and implemented automated data quality alerts, reducing data bugs and errors by 50% through proactive issue detection and resolution</li>
-    </ul>
-  </div>
-</div>
-
-<div class="experience-card">
-  <div class="experience-left">
-    <img src="{{ '/assets/img/squareone.png' | relative_url }}" alt="Squareoneh Logo">
-  </div>
-  <div class="experience-right">
-    <h3>Data Analyst</h3>
-    <p><strong>AtSquareone</strong>, Remote | August 2024 - November 2024</p>
-    <ul>
-      <li>Analyzed a complex dataset of over 2.9 million rows of LCA-H1B public data using Python, and conducted data visualization to analyze living costs and disposable income</li>
-      <li>Developed interactive Tableau dashboards and performed data manipulation on H1B applications to identify title and industry trends, helping new graduate students tailor their strategies to achieve career goals</li>
-    </ul>
+<div class="container-fluid">
+  <div class="experience-card">
+    <div class="experience-left">
+      <img src="{{ '/assets/img/fetch.jpeg' | relative_url }}" alt="Fetch Logo">
+    </div>
+    <div class="experience-right">
+      <h3>Product Data Analyst</h3>
+      <p><strong>Fetch</strong>, Remote | November 2024 - August 2025</p>
+      <ul>
+        <li>Maintained and troubleshot data pipelines, and managed Tableau and Grafana dashboards for AdTech tools, using SQL and DBT to investigate and identify the root cause of a $100M+ sales loss due to workflow issues</li>
+        <li>Led development of machine learning powered tools using Python and Streamlit to analyze offer performance, drive data-driven decisions, and enhance team efficiency through collaboration with sales and non-technical stakeholders</li>
+        <li>Collaborated with Analytics Engineers to improve pipeline architecture and implemented automated data quality alerts, reducing data bugs and errors by 50% through proactive issue detection and resolution</li>
+      </ul>
+    </div>
   </div>
 </div>
 
+<div class="container-fluid">
+  <div class="experience-card">
+    <div class="experience-left">
+      <img src="{{ '/assets/img/squareone.png' | relative_url }}" alt="Squareoneh Logo">
+    </div>
+    <div class="experience-right">
+      <h3>Data Analyst</h3>
+      <p><strong>AtSquareone</strong>, Remote | August 2024 - November 2024</p>
+      <ul>
+        <li>Analyzed a complex dataset of over 2.9 million rows of LCA-H1B public data using Python, and conducted data visualization to analyze living costs and disposable income</li>
+        <li>Developed interactive Tableau dashboards and performed data manipulation on H1B applications to identify title and industry trends, helping new graduate students tailor their strategies to achieve career goals</li>
+      </ul>
+    </div>
+  </div>
+</div>
