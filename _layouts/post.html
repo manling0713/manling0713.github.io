@@ -4,34 +4,30 @@ layout: base
 
 {% include header.html type="post" %}
 
-{% if page.full-width %}
 <main class="container-fluid">
   <div class="row">
-    <div class="col text-center mb-4">
-      {% if page.title %}
-        <h1 class="post-title">{{ page.title }}</h1>
-      {% endif %}
-      {% if page.subtitle %}
-        <h4 class="post-subtitle text-muted">{{ page.subtitle }}</h4>
-      {% endif %}
-      {% if page.date %}
-        <p class="post-date text-muted">{{ page.date | date: "%B %-d, %Y" }}</p>
-      {% endif %}
-    </div>
-  </div>
-</main>
-{% endif %}
+    <div class="col">
 
-<main class="container-md">
-  <div class="row">
-    <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      
+      <div class="blog-post-header mb-4">
+        {% if page.title %}
+          <h1 class="post-title text-left">{{ page.title }}</h1>
+        {% endif %}
+        {% if page.subtitle %}
+          <h4 class="post-subtitle text-muted text-left">{{ page.subtitle }}</h4>
+        {% endif %}
+        {% if page.date %}
+          <p class="post-date text-muted text-left">{{ page.date | date: "%B %-d, %Y" }}</p>
+        {% endif %}
+      </div>
 
+      
       {% if page.gh-repo %}
         {% assign gh_split =  page.gh-repo | split:'/'  %}
         {% assign gh_user =  gh_split[0]  %}
         {% assign gh_repo =  gh_split[1]  %}
 
-        <div id="header-gh-btns">
+        <div id="header-gh-btns mb-4">
           {% if page.gh-badge.size > 0 %}
             {% for badge in page.gh-badge %}
               {% case badge %}
@@ -57,10 +53,12 @@ layout: base
         </div>
       {% endif %}
 
+      <!-- Post content -->
       <div class="blog-post">
         {{ content }}
       </div>
 
+      <!-- Tags -->
       {% if page.tags.size > 0 %}
         <div class="blog-tags mt-4">
           <span>Tags:</span>
@@ -82,6 +80,7 @@ layout: base
         {% include social-share.html %}
       {% endif %}
 
+      
       <ul class="pagination blog-pager mt-5">
         {% if page.previous.url %}
         <li class="page-item previous">
@@ -100,7 +99,9 @@ layout: base
         </li>
         {% endif %}
       </ul>
+
       {% include comments.html %}
+
     </div>
   </div>
 </main>
