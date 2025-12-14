@@ -55,6 +55,6 @@ b. Logistic Regression:
 3. Target Elderly Retired & Highly Educated Individuals Via Their Personal Agents: Capitalizes on the personal touch that can be very effective with older demographics. Higher education levels often correlate with a greater understanding of the benefits and complexities of insurance policies.
 
 ## Links
-<a href="https://github.com/manling0713" class="btn btn-primary" target="_blank">
+<a href="https://github.com/manling0713/Behavioral-Analytics-and-CRM-with-IBM-Watson" class="btn btn-primary" target="_blank">
   Github Repo
 </a>
