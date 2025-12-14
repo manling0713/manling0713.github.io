@@ -107,3 +107,60 @@ full-width: true
   </div>
 </div>
 
+## 🎓 Education
+
+<div class="education-card">
+  <div class="education-left">
+    <img src="{{ '/assets/img/uw.jpeg' | relative_url }}" alt="UW Logo">
+  </div>
+  <div class="education-right">
+    <h3>Master of Science in Business Analytics</h3>
+    <p><strong>University of Washington – Michael G. Foster School of Business</strong>, Seattle, WA | June 2023 - June 2024</p>
+    <ul>
+      <li>GPA: 3.70/4.0</li>
+      <li>Relevant Courses: Data Management & SQL, Customer Analytics, Operations Research Data Analytics, Machine Learning Methods and AI, Spreadsheet Modeling</li>
+      <li>Extracurriculars: MSBA Student Ambassador</li>
+    </ul>
+  </div>
+</div>
+
+<div class="education-card">
+  <div class="education-left">
+    <img src="{{ '/assets/img/ntpu.jpg' | relative_url }}" alt="NTPU Logo">
+  </div>
+  <div class="education-right">
+    <h3>Bachelor of Business Administration in Statistics</h3>
+    <p><strong>National Taipei University</strong>, New Taipei, Taiwan | September 2019 - June 2022</p>
+    <ul>
+      <li>GPA: 3.82/4.0</li>
+      <li>Relevant Courses: Regression Analysis, Experiment Design, Applied Time Series, Linear Algebra, Introduction to Probability, Statistical Inference, Computer Programming, Sampling Survey</li>
+      <li>Extracurriculars: Transfer Students Association – Head of Event Planning</li>
+    </ul>
+  </div>
+</div>
+
+<div class="education-card">
+  <div class="education-left">
+    <img src="{{ '/assets/img/ntpu.jpg' | relative_url }}" alt="NTPU Logo">
+  </div>
+  <div class="education-right">
+    <h3>Department of Photonics</h3>
+    <p><strong>National Sun Yat-Sen University</strong>, Kaohsiung, Taiwan | September 2018 - June 2019</p>
+  </div>
+</div>
+
+## 🛠️ Skills
+
+**Tools**
+- Programming Languages: SQL, Python, R, Excel VBA, C#
+- Data Warehousing & ETL: Snowflake, dbt
+- Data Visualization: Tableau, Power BI, Grafana
+- Analytics & Collaboration Platforms: Hex, Streamlit
+- Statistical Software: SAS, Minitab
+
+**Analytial Skills**
+Machine Learning, Causal Inference, Linear Regression, Logistic Regression, Random Forest, Classification Tree, Decision Trees, Predictive modeling, Experiment Design, Time Series Analysis, Hypothesis Testing, A/B Testing, ANOVA, Principal Component Analysis, Factor Analysis
+
+## 💬 Languages
+- Chinese(Mandarin): Native
+- English: Proficient
