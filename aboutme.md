@@ -7,7 +7,6 @@ full-width: true
 
 
 ## 💼 Work Experience
-<br>
 <div class="container-fluid">
   <div class="experience-card">
     <div class="experience-left">
@@ -108,7 +107,6 @@ full-width: true
 </div>
 
 ## 🎓 Education
-<br>
 <div class="education-card">
   <div class="education-left">
     <img src="{{ '/assets/img/uw.jpeg' | relative_url }}" alt="UW Logo">
