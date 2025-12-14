@@ -51,8 +51,7 @@ Data Dictionary:
 ## 🔬 Methodology
 
 ### 1. Data Cleaning
-a. Missing values: Some columns may have missing values represented as NULL using CASE statement.  
-
+a. Missing values: Some columns may have missing values represented as NULL using CASE statement.
 b. Dummy variables on the amount spent (wine, meat, fruit, etc): <= $10 : 0 and >$10 : 1
 
 ### 2. Exploratory Data Analysis (EDA)
