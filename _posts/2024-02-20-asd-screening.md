@@ -17,15 +17,14 @@ Data Source: https://www.kaggle.com/datasets/andrewmvd/autism-screening-on-adult
 
 ## 🛠️ Tools
 - Tools: Python
-
 - Skills: Chi-square test, CART model, Logistic Regression
 
 ## 🔬 Methodology
 #### 1. Data Cleaning & Preprocessing
-a. Encoded boolean features (Gender, Jaundice, Relative Autism, Autistic) as binary (1/0).
-b. Grouped countries of residence with a count less than 50 under the Others category. Grouped Healthcare Professionals in relation variable into the Others category.
-c. Remove outliers and redundant variables which correlated with other variables.
-d. Mean-centering Age to decrease VIF(Variance Inflation Factor).
+a. Encoded boolean features (Gender, Jaundice, Relative Autism, Autistic) as binary (1/0).  
+b. Grouped countries of residence with a count less than 50 under the Others category. Grouped Healthcare Professionals in relation variable into the Others category.  
+c. Remove outliers and redundant variables which correlated with other variables.  
+d. Mean-centering Age to decrease VIF(Variance Inflation Factor).  
 
 #### 2. Exploratory Data Analysis (EDA)
 a. We observed that in this dataset, majority of examinees are between 21 and 30 years old.
@@ -42,7 +41,8 @@ b. Classification And Regression Trees Model (CART)
 We noticed that the CART model mainly splits based on the 10 questions about behavior related to autism. This means these questions are important for figuring out if someone might have autism. 
 
 c. Logistic Regression Model  
-The variables linked to behavioral questions have larger coefficients compared to other variables in our model. This means that behaviors related to autism play a crucial role in predicting autism traits compared to other factors we looked at. 
+The variables linked to behavioral questions have larger coefficients compared to other variables in our model. This means that behaviors related to autism play a crucial role in predicting autism traits compared to other factors we looked at.  
+
 ![fig3](/assets/img/asd3.png)
     
 
