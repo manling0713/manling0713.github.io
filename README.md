@@ -1,8 +1,5 @@
-# Queenie Chao – Data Analyst & Business Analytics Professional
-
 Hi! I'm **Queenie Chao**, a Data Analyst with experience in SQL, Python, and Tableau. I specialize in turning complex datasets into actionable insights and creating dashboards and analytical tools that drive business decisions.
 
----
 
 ## 💼 Work Experience
 
@@ -21,7 +18,6 @@ Hi! I'm **Queenie Chao**, a Data Analyst with experience in SQL, Python, and Tab
 - **Product Operation Intern – ThunderCore**  
   *Nov 2021 – June 2022*  
 
----
 
 ## 🎓 Education
 
@@ -34,21 +30,17 @@ Hi! I'm **Queenie Chao**, a Data Analyst with experience in SQL, Python, and Tab
 - **National Sun Yat-Sen University – Department of Photonics**  
   *Sep 2018 – June 2019*
 
----
 
 ## 🛠️ Skills
 **Tools:** SQL, Python, R, Excel VBA, C#, Snowflake, dbt, Tableau, Power BI, Grafana, Hex, Streamlit, SAS, Minitab  
 **Analytical Skills:** Machine Learning, Causal Inference, Regression, Random Forest, Decision Trees, Predictive Modeling, Experiment Design, Time Series Analysis, Hypothesis Testing, A/B Testing, PCA, Factor Analysis
 
 
----
-
 ## 🔗 Portfolio & Projects
 
 Check out my interactive portfolio and project demos:  
 [Portfolio Website](https://manling0713.github.io)
 
----
 
 ## 📫 Contact
 
