@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Autism spectrum disorder (ASD) Screening for Adults"
-subtitle: "Identifying behavioral and demographic markers for rarly ASD screening using Statistical and ML models"
+subtitle: "Identifying behavioral and demographic markers for early ASD screening using Statistical and ML models"
 tags: [Python]
 categories: [projects]
 image: "/assets/img/asd.avif"
