@@ -45,5 +45,5 @@ Check out my portfolio and project demos:
 ## 📫 Contact
 
 - Email: manling000713@gmail.com
-- LinkedIn: [linkedin.com/in/manling0713](https://www.linkedin.com/in/manling0713/)  
+- LinkedIn: [linkedin.com/in/queenie-chao/](https://www.linkedin.com/in/queenie-chao/)  
 - GitHub: [github.com/manling0713](https://github.com/manling0713)
