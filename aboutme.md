@@ -7,7 +7,7 @@ full-width: true
 
 
 ## 💼 Work Experience
-
+<br>
 <div class="container-fluid">
   <div class="experience-card">
     <div class="experience-left">
@@ -108,7 +108,7 @@ full-width: true
 </div>
 
 ## 🎓 Education
-
+<br>
 <div class="education-card">
   <div class="education-left">
     <img src="{{ '/assets/img/uw.jpeg' | relative_url }}" alt="UW Logo">
@@ -141,7 +141,7 @@ full-width: true
 
 <div class="education-card">
   <div class="education-left">
-    <img src="{{ '/assets/img/ntpu.jpg' | relative_url }}" alt="NTPU Logo">
+    <img src="{{ '/assets/img/nsysu.png' | relative_url }}" alt="NSYSU Logo">
   </div>
   <div class="education-right">
     <h3>Department of Photonics</h3>
@@ -150,7 +150,6 @@ full-width: true
 </div>
 
 ## 🛠️ Skills
-
 **Tools**
 - Programming Languages: SQL, Python, R, Excel VBA, C#
 - Data Warehousing & ETL: Snowflake, dbt
@@ -159,7 +158,21 @@ full-width: true
 - Statistical Software: SAS, Minitab
 
 **Analytial Skills**
-Machine Learning, Causal Inference, Linear Regression, Logistic Regression, Random Forest, Classification Tree, Decision Trees, Predictive modeling, Experiment Design, Time Series Analysis, Hypothesis Testing, A/B Testing, ANOVA, Principal Component Analysis, Factor Analysis
+- Machine Learning
+- Causal Inference
+- Linear Regression
+- Logistic Regression
+- Random Forest
+- Classification Tree
+- Decision Trees
+- Predictive modeling
+- Experiment Design
+- Time Series Analysis
+- Hypothesis Testing
+- A/B Testing
+- ANOVA
+- Principal Component Analysis
+- Factor Analysis
 
 ## 💬 Languages
 - Chinese(Mandarin): Native
