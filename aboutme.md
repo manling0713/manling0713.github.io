@@ -29,11 +29,11 @@ My background includes product development and B2B client-facing roles, where I 
 
 <div class="experience-card">
   <div class="experience-left">
-    <img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/52e2de36-937f-426a-8546-5d6b2ba24f1e/2c6eab00-610a-4602-b6f8-8e32fbc1fc5d/Screenshot_2024-07-18_at_12.40.48_PM.png" alt="Squareone Logo">
+    <img src="{{ '/assets/img/squareone.png' | relative_url }}" alt="Squareoneh Logo">
   </div>
   <div class="experience-right">
     <h3>Data Analyst</h3>
-    <p><strong>Squareone</strong>, Remote | August 2024 - November 2024</p>
+    <p><strong>AtSquareone</strong>, Remote | August 2024 - November 2024</p>
     <ul>
       <li>Analyzed a complex dataset of over 2.9 million rows of LCA-H1B public data using Python, and conducted data visualization to analyze living costs and disposable income</li>
       <li>Developed interactive Tableau dashboards and performed data manipulation on H1B applications to identify title and industry trends, helping new graduate students tailor their strategies to achieve career goals</li>
