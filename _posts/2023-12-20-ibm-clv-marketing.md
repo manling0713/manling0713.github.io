@@ -8,12 +8,13 @@ image: "/assets/img/ibm.avif"
 full-width: true
 ---
 
-## 💡 Business Problem
+## 💡 Business Problems
 
 ### 1. New Customer Acquisition
 - Which customers are the most valuable (CLV) and how do we identify prospects that will be valuable customers?
 - The aim is to identify the most valuable customers in terms of Customer Lifetime Value (CLV). The objective is to develop strategies for new customer acquisition by identifying and targeting individuals with high potential CLV. We will analyze customer demographics, behaviors, and other relevant factors.
-### 2. Renewal and Churn Prevention 
+
+### 2. Renewal and Churn Prevention
 - How do we drive policy renewals? What renewal marketing efforts are working?
 - The goal is to improve the rate of policy renewals and identify effective marketing efforts. This will involve analysis of customer satisfaction, customer experience, marketing campaigns, incentives, and other communication channels.
 
