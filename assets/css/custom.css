@@ -35,3 +35,53 @@
     color: #007bff; 
     text-decoration: underline;
 }
+
+.experience-card {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 2em;
+  flex-wrap: wrap; 
+}
+
+.experience-left {
+  flex: 0 0 120px; 
+  max-width: 120px;
+  margin-right: 20px;
+}
+
+.experience-left img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  border-radius: 5px;
+}
+
+.experience-right {
+  flex: 1;
+}
+
+.experience-right h3 {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.experience-right p {
+  margin: 0 0 10px 0;
+  font-style: italic;
+}
+
+.experience-right ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+@media (max-width: 768px) {
+  .experience-card {
+    flex-direction: column;
+  }
+  .experience-left {
+    margin-right: 0;
+    margin-bottom: 10px;
+    max-width: 100%;
+  }
+}
