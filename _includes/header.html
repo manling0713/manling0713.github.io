@@ -19,10 +19,10 @@
 <header class="header-section {% if page.cover-img %}has-img{% endif %}">
 <div class="intro-header {% if page.cover-img %} big-img {% endif %}">
   {% if page.cover-img or page.title %}
-    <div class="container-fluid">
+   <div class="container-fluid">
     <div class="row">
       <div class="col">
-        <div class="{{ include.type }}-heading text-left">
+        <div class="{{ include.type }}-heading text-center">
           <h1>{% if page.title %}{{ page.title | strip_html }}{% else %}<br/>{% endif %}</h1>
           {% if page.subtitle %}
             {% if include.type == "page" %}
