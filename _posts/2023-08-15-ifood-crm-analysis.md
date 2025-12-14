@@ -13,10 +13,10 @@ full-width: true
 1. **Provided insights, and defined causal effects:** We’d lie to provide a better understanding of the characteristic features of respondents, and we also wanted to describe customer segmentation based on customers' behaviors.
 2. **Maximized the profit:** We would like to build 2 predictive models for their next marketing campaign.
 
+
 ## 📊 Dataset
 
 The dataset comprises 20 columns and 2240 rows.
-
 Data Dictionary:
 
 | **Feature** | **Description** |
@@ -42,14 +42,17 @@ Data Dictionary:
 | NumWebVisitsMonth | Number of visits to company’s website in the last month |
 | Recency | Number of days since the last purchase |
 
+
 ## 🛠️ Tools
 - Tools: MySQL, R
 - Skills: Stepwise Regression, Semi-Log Regression Model
 
+
 ## 🔬 Methodology
 
 ### 1. Data Cleaning
-a. Missing values: Some columns may have missing values represented as NULL using CASE statement
+a. Missing values: Some columns may have missing values represented as NULL using CASE statement.  
+
 b. Dummy variables on the amount spent (wine, meat, fruit, etc): <= $10 : 0 and >$10 : 1
 
 ### 2. Exploratory Data Analysis (EDA)
@@ -68,7 +71,7 @@ a. Stepwise Regression Model:
 - Income, number of kids, spending on wines, number of purchases are strongly significant to predict number of purchases. On the other hand, education is not statistically significant.
 - Customers spend more on wines, the more purchases they make!
     
-b. Semi-Log Regression: 
+b. Semi-Log Regression:
 - The log of the amount spent on meat and income in thousands have a positive relationship with total spending.
     
 
