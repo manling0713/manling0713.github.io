@@ -4,30 +4,16 @@ layout: base
 
 {% include header.html type="post" %}
 
-<main class="container-fluid">
+<main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
   <div class="row">
-    <div class="col">
+    <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
 
-      
-      <div class="blog-post-header mb-4">
-        {% if page.title %}
-          <h1 class="post-title text-left">{{ page.title }}</h1>
-        {% endif %}
-        {% if page.subtitle %}
-          <h4 class="post-subtitle text-muted text-left">{{ page.subtitle }}</h4>
-        {% endif %}
-        {% if page.date %}
-          <p class="post-date text-muted text-left">{{ page.date | date: "%B %-d, %Y" }}</p>
-        {% endif %}
-      </div>
-
-      
       {% if page.gh-repo %}
         {% assign gh_split =  page.gh-repo | split:'/'  %}
         {% assign gh_user =  gh_split[0]  %}
         {% assign gh_repo =  gh_split[1]  %}
 
-        <div id="header-gh-btns mb-4">
+        <div id="header-gh-btns">
           {% if page.gh-badge.size > 0 %}
             {% for badge in page.gh-badge %}
               {% case badge %}
@@ -53,14 +39,12 @@ layout: base
         </div>
       {% endif %}
 
-      <!-- Post content -->
       <div class="blog-post">
         {{ content }}
       </div>
 
-      <!-- Tags -->
       {% if page.tags.size > 0 %}
-        <div class="blog-tags mt-4">
+        <div class="blog-tags">
           <span>Tags:</span>
           {% for tag in page.tags %}
             <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
@@ -80,8 +64,7 @@ layout: base
         {% include social-share.html %}
       {% endif %}
 
-      
-      <ul class="pagination blog-pager mt-5">
+      <ul class="pagination blog-pager">
         {% if page.previous.url %}
         <li class="page-item previous">
           <a class="page-link" href="{{ page.previous.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title | strip_html | xml_escape}}">
@@ -99,9 +82,7 @@ layout: base
         </li>
         {% endif %}
       </ul>
-
       {% include comments.html %}
-
     </div>
   </div>
 </main>
