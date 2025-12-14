@@ -5,12 +5,9 @@ subtitle: Hi, I'm Queenie!
 full-width: true
 ---
 
-Data Analyst with 3 years of experience leveraging SQL, Python, and R to transform complex datasets into actionable insights. I hold degrees in Statistics and Business Analytics.
-
-My background includes product development and B2B client-facing roles, where I communicate effectively with both technical and non-technical stakeholders. I use data-driven insights to drive business growth, optimize product performance, and support strategic decision-making.
-
 
 ## 💼 Work Experience
+
 <div class="container-fluid">
   <div class="experience-card">
     <div class="experience-left">
@@ -43,3 +40,70 @@ My background includes product development and B2B client-facing roles, where I 
     </div>
   </div>
 </div>
+
+<div class="container-fluid">
+  <div class="experience-card">
+    <div class="experience-left">
+      <img src="{{ '/assets/img/msft.png' | relative_url }}" alt="Msft Logo">
+    </div>
+    <div class="experience-right">
+      <h3>Data Analyst (Capstone)</h3>
+      <p><strong>Microsoft</strong>, Seattle, WA | March 2024 - June 2024</p>
+      <ul>
+        <li>Performed exploratory data analysis (EDA) on a dataset with over 520k rows using Python, employing data aggregation and K-Prototype clustering model to analyze customer engagement and revenue</li>
+        <li>Identified 4 distinct customer segments and recommended targeted strategies for Microsoft to enhance sales efficiency based on location and company size</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid">
+  <div class="experience-card">
+    <div class="experience-left">
+      <img src="{{ '/assets/img/mercer.jpg' | relative_url }}" alt="mercer Logo">
+    </div>
+    <div class="experience-right">
+      <h3>Wealth Actuarial Analyst</h3>
+      <p><strong>Microsoft</strong>, Taipei, Taiwan | July 2022 - May 2023</p>
+      <ul>
+        <li>Achieved a 10% reduction in potential costs and generated valuation reports by conducting YoY and sensitivity analysis on client salary data using Excel VBA</li>
+        <li>Conducted the 2022 Taiwan Retirement Survey among 358 companies to study the availability of the Retirement Supplementary Plan which is superior to the law; the report will be available to clients as a reference for market insight</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid">
+  <div class="experience-card">
+    <div class="experience-left">
+      <img src="{{ '/assets/img/thundercore.png' | relative_url }}" alt="TT Logo">
+    </div>
+    <div class="experience-right">
+      <h3>Product Operation Intern</h3>
+      <p><strong>ThunderCore</strong>, Taipei, Taiwan | November 2021 - June 2022</p>
+      <ul>
+        <li>Achieved a 10% increase in Daily Active Users (DAU) by designing push notification strategies for the app, monitoring app data, and creating a dashboard for analysis</li>
+        <li>Designed FinTech products as a Product Owner, utilizing A/B testing and risk management, resulting in $530,000 in sales revenue and a 75% increase in Twitter followers</li>
+        <li>Organized a successful "Ask Me Anything" event on Discord, attracting over 200 participants, and created innovative promotional content to boost engagement</li>
+        <li>Leaded and collaborated with UI/UX designers to create guidelines for Help Center while updating apps during rebranding effort to give users a better experience and decreased the user complaint emails by 50%</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid">
+  <div class="experience-card">
+    <div class="experience-left">
+      <img src="{{ '/assets/img/htm.png' | relative_url }}" alt="htm Logo">
+    </div>
+    <div class="experience-right">
+      <h3>Summer Intern</h3>
+      <p><strong>HTM Material</strong>, Taichung, Taiwan | July 2021 - August 2021</p>
+      <ul>
+        <li>Gathered market information about the passive components of Multilayer Ceramic Capacitor, and organized the key points of major companies’ financial reports and press releases to help the company better understand the passive components’ supply chain and market supply status</li>
+        <li>Translated official website into English, including chemical terminology, to facilitate the company’s expansion into overseas markets</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
