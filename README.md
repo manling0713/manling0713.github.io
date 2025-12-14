@@ -25,7 +25,7 @@ Hi! I'm **Queenie Chao**, a Data Analyst with experience in SQL, Python, and Tab
   *Jun 2023 – June 2024* | GPA: 3.70/4.0
 
 - **National Taipei University – BBA in Statistics**  
-  *Ｓep 2019 – June 2022* | GPA: 3.82/4.0*
+  *Sep 2019 – June 2022* | GPA: 3.82/4.0
 
 - **National Sun Yat-Sen University – Department of Photonics**  
   *Sep 2018 – June 2019*
@@ -38,7 +38,7 @@ Hi! I'm **Queenie Chao**, a Data Analyst with experience in SQL, Python, and Tab
 
 ## 🔗 Portfolio & Projects
 
-Check out my interactive portfolio and project demos:  
+Check out my portfolio and project demos:  
 [Portfolio Website](https://manling0713.github.io)
 
 
