@@ -5,7 +5,7 @@ subtitle: "Explore the causes of traffic accidents in Taiwan"
 tags: [R, SAS, Minitab]
 categories: [projects]
 image: "/assets/img/highway.avif"
-full-width： true
+full-width：true
 ---
 ⚠️ This is a research project for the Seminar on Business Statistics at National Taipei University. Some content may be in Chinese and translated. Feel free to contact me for more details!
 
