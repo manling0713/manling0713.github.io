@@ -25,3 +25,13 @@
     display: block;
     margin-bottom: 10px;
 }
+
+.card a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.card a:hover {
+    color: #007bff; 
+    text-decoration: underline;
+}
