@@ -12,7 +12,7 @@ full-width: true
 The primary objective of the research was to explore and develop strategies for early diagnosis of ASD, emphasizing its importance in reducing healthcare costs. By identifying potential markers or indicators, the research sought to contribute to the enhancement of assessment models, ultimately leading to more effective and timely interventions for individuals with ASD.
 
 ## 📊 Dataset
-The data included 21 columns, comprising 10 questionnaire questions and other variables encompassing medical and demographic background.
+The data included 21 columns, comprising 10 questionnaire questions and other variables encompassing medical and demographic background.  
 Data Source: https://www.kaggle.com/datasets/andrewmvd/autism-screening-on-adults/data
 
 ## 🛠️ Tools
