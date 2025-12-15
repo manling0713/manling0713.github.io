@@ -20,7 +20,7 @@ Fetch offers are special deals on select products or retailers that give you ext
 
 DoorDash Offer Example:  
 
-<img src="/assets/img/fetch1.png" alt="DoorDash Offer Example" height="600">
+<img src="/assets/img/fetch1.png" alt="DoorDash Offer Example" height="600" style="display:block; margin:auto;">
 
 ## 💡 Business Problem
 
@@ -33,7 +33,8 @@ When creating new offers, sales teams often rely on past offers as references. F
 ## 📊 Dataset
 The dataset includes all offers executed in the past 2 years.
 
-**Offer Attributes:** Points awarded, Spend (Cost), Target Buyer, Offer Duration, Other relevant features
+**Offer Attributes:** Points awarded, Spend (Cost), Target Buyer, Offer Duration, Other relevant features  
+
 **Performance Metrics:** Redemptions, Redemption Rate, Return on Ad Spend (ROAS), Incremental ROAS (iROAS), Additional KPIs
 
 ![fig3](/assets/img/fetch3.png)
