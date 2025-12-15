@@ -18,8 +18,9 @@ Fetch is an app that lets you earn rewards by scanning your shopping receipts, t
 ### What is [Fetch Offer](https://fetch.com/blog/fetch-tips-tricks/what-is-an-offer-on-fetch)?
 Fetch offers are special deals on select products or retailers that give you extra points when you buy and scan those items’ receipts.
 
-DoorDash Offer Example:
-<img src="/assets/img/fetch1.png" alt="DoorDash Offer Example" height="400">
+DoorDash Offer Example:  
+
+<img src="/assets/img/fetch1.png" alt="DoorDash Offer Example" height="600">
 
 ## 💡 Business Problem
 
