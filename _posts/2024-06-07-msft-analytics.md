@@ -9,10 +9,11 @@ full-width: true
 ---
 
 ## 💡 Business Problem
-#### 1. Do Enablement Programs drive an Increase in revenue?
+### 1. Do Enablement Programs Drive an Increase in Revenue?
 - What variables affect revenue?
 - What is the nature of the relationship, and how can we use this information to improve upskilling initiatives?
-#### 2. Which targeted subsets of product consumption are impacted differently?
+
+### 2. Which Targeted Subsets of Product Consumption are Impacted Differently?
 - Who are the different customer segments and what are their characteristics?
 - How can we cater upskilling courses to these segments to maximize product consumption?
 
