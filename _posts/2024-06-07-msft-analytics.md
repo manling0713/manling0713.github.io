@@ -31,11 +31,11 @@ Data Overview:
 - Data Aggregation: Combined some raw data rows based on customer and month. For example, instead of including every course number a customer took, we aggregated them to represent the number of courses the customer took in that month.
 
 #### 2. XGBoost
-** Business Goals**  
+**Business Goals**  
 - Assessed the impact of participation in enablement programs on revenue across different customer segments.
 - Identified critical features and their specific roles in influencing revenue to optimize resource allocation and strategy development.
 
-** Business Implications**   
+**Business Implications**   
 a. Target Role: Training employees in specific roles, particularly Roles B and C, is crucial as it directly correlates with a substantial increase in revenue.
 
 ![fig2](/assets/img/msft2.png)
@@ -53,19 +53,11 @@ b. Product Category: Increased sales in key product categories such as meat and 
 ![fig4](/assets/img/msft4.png)
 
 **Recommendations & Strategies**  
+- **Cluster 1 (Exploratory Users):** Develop customized learning paths; offer trial/discounts.  
+- **Cluster 2 (Moderate Contributors):** Develop content for industry-specific challenges; build referral programs.  
+- **Cluster 3 (High-Value Investors):** Offer VIP coaching and highly personalized programs.  
+- **Cluster 4 (Diverse Leaders):** Customized courses for Role A, C & M; build specialized online engagement forums.
 
-### 1. Exploratory Users(Cluster 1): 
-- Development of Customized Learning Paths.
-- Encourage trial and adoption by offering time-bound free access to certain features or discounts on subscriptions.
-### 2. Moderate Contributors (Cluster 2)
-- Develop content that addresses the unique challenges faced by the Emerald and Serpentine business industry. 
-- Build a referral program to encourage existing participants especially Blue tier to refer colleagues.
-### 3. High-Value Investors (Cluster 3)
-- Retention-based Strategy: E.g. Offer VIP-level coaching sessions.
-- Offer highly customized personalization based on individual goals, expertise, and industry.
-### 4. Diverse Leaders (Cluster 4)
-- Customized courses, mostly for customers of Role A, C & M from Peridot and Serpentine businesses.
-- Support Specialized Online Engagement: E.g. Build online forum to allow customers of the same location, business type, or roles.
 
 ## 🎯 Conclusions
 1. Enablement participation strongly correlates with increased spending; key factors: roles (B, C, E) and industries (Serpentine, Peridot).  
