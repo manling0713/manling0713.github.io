@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Hi, I'm Queenie!
 full-width: true
 ---
 
