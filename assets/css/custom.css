@@ -201,22 +201,22 @@
 .btn-linkedin {
     display: inline-flex;
     align-items: center;
-    justify-content: center;
-    background-color: #FF6F91; 
-    color: white;             
+    gap: 8px; 
+    background-color: #F5DADF;
+    color: white;
     border: none;
     border-radius: 5px;
-    padding: 8px 12px;
+    padding: 8px 16px;
     font-size: 16px;
     text-decoration: none;
     transition: background-color 0.3s ease;
 }
 
-.btn-linkedin i {
-    font-size: 20px; 
-}
-
 .btn-linkedin:hover {
     background-color: #FF3D68;
     color: white;
+}
+
+.btn-linkedin i {
+    font-size: 20px;
 }
