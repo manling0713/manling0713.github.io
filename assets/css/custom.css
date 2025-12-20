@@ -139,7 +139,7 @@
 
 .hero-avatar {
     width: 100%;
-    max-width: 400px;
+    max-width: 300px;
     height: auto;
     border-radius: 0; 
 }
@@ -174,9 +174,10 @@
 }
 
 .story-right img {
-    width: 100%;
-    height: auto;
-    border-radius: 0; /* remove round corner */
+      width: 300px; 
+      height: auto;
+      object-fit: cover; 
+      border-radius: 0;
 }
 
 /* Mobile responsiveness */
