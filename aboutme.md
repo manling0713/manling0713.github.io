@@ -172,5 +172,5 @@ full-width: true
 - Factor Analysis
 
 ## 💬 Languages
-- Chinese(Mandarin): Native
-- English: Proficient
+- Chinese
+- English
