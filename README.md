@@ -2,12 +2,11 @@ Hi! I'm **Queenie Chao**, a Data Analyst with experience in SQL, Python, and Tab
 
 
 ## 💼 Work Experience
+- **Data Analyst – Squareone**  
+  *Nov 2025 – Present*  
 
 - **Product Data Analyst – Fetch**  
   *Nov 2024 – Aug 2025*  
-
-- **Data Analyst – Squareone**  
-  *Aug 2024 – Nov 2024*  
 
 - **Data Analyst Intern – Microsoft**  
   *Mar 2024 – June 2024*  
