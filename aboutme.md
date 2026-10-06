@@ -63,7 +63,7 @@ full-width: true
     </div>
     <div class="experience-right">
       <h3>Wealth Actuarial Analyst</h3>
-      <p><strong>Microsoft</strong>, Taipei, Taiwan | July 2022 - May 2023</p>
+      <p><strong>Mercer</strong>, Taipei, Taiwan | July 2022 - May 2023</p>
       <ul>
         <li>Achieved a 10% reduction in potential costs and generated valuation reports by conducting YoY and sensitivity analysis on client salary data using Excel VBA</li>
         <li>Conducted the 2022 Taiwan Retirement Survey among 358 companies to study the availability of the Retirement Supplementary Plan which is superior to the law; the report will be available to clients as a reference for market insight</li>
